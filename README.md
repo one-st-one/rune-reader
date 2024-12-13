@@ -1,9 +1,3 @@
-Below is the updated `README.md` with the project name changed to **rune-reader**.
-
----
-
-### README
-
 # rune-reader
 
 **Decode, distill, and deliver the essence of your saved articles.**  

@@ -19,13 +19,6 @@
 
 ## Getting Started
 
-### Prerequisites
-
-- **Python 3.9+**
-- **API Credentials:** Obtain a Readwise API token (if using Readwise Reader).
-- **LLM Key:** Have an API key for an LLM service (e.g., OpenAI API key) to enable summarization.
-- **Messenger Credentials:** Webhook URL or API token for your preferred messaging platform.
-
 ## Configuration and Customization
 
 - **Source Client:**  
@@ -55,7 +48,3 @@ Contributions are welcome! Feel free to open issues, suggest features, or submit
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**rune-reader** aims to transform raw textual data into meaningful knowledge at your fingertips. By bridging LLM technology with your chosen content sources and communication platforms, it turns routine reading into a dynamic, time-saving experience.
